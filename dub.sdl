@@ -1,0 +1,5 @@
+name "bsdiff"
+description "Binary diff and patch algorithm"
+authors "Sönke Ludwig"
+copyright "Copyright © 2003-2005 Colin Percival, 2012 Matthew Endsley, 2017 Sönke Ludwig"
+license "BSD 2-clause"
